@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="79.8px" height="15.9px" viewBox="0 0 79.8 15.9" enable-background="new 0 0 79.8 15.9" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#D9CBB7" points="76.8,10 76.8,9.9 77.3,2.5 77.9,2.5 77.4,13.4 			"/>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-85.7422" y1="-38.4263" x2="-4.1011" y2="-38.4263" gradientTransform="matrix(-0.9946 -0.1038 -6.573328e-002 -1.0123 -1.1993 -36.7248)">
+				<stop  offset="0" style="stop-color:#AEA982;stop-opacity:0.9725"/>
+				<stop  offset="0.3686" style="stop-color:#373016;stop-opacity:0.9804"/>
+				<stop  offset="1" style="stop-color:#685A27"/>
+			</linearGradient>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M76.8,10H39.5l0.9-6.3c0.2,0,0.4,0,0.6-0.1
+				c0.2-0.1,0.4-0.1,0.5-0.1c0.1,0,0.2,0,0.3,0c0.2,0,0.3,0,0.4,0c0.2-0.1,0.4-0.2,0.6-0.2c0.2-0.1,0.5-0.2,0.7-0.3
+				c0.2,0,0.3-0.1,0.3-0.2c0.3-0.1,0.5-0.2,0.6-0.3h32.6L76.8,10L76.8,10z M37.5,3.7L36.6,10H2.5l1-7.5h31c0.1,0,0.2,0.1,0.4,0.2
+				c0.1,0.1,0.2,0.1,0.4,0.1c0.1,0,0.3,0.1,0.4,0.2c0.6,0.2,1.2,0.4,1.9,0.5L37.5,3.7z"/>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#0C0A05" d="M39.5,10h37.2l0.6,3.4H51.5H40.1L39.5,10z M2.5,10h34.1v0.1
+				l0.4,3l0.1,0.3H36H3.1L2.5,10z"/>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#3F3216" d="M44.6,2.5c-0.1,0.1-0.3,0.3-0.6,0.3c-0.2-0.1-0.4-0.2-0.5-0.3
+				H44.6z"/>
+			<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#1F1B0C" points="36.6,10 37.5,3.7 38,6.7 37,13.1 36.6,10.1 			"/>
+		</g>
+	</g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="none" d="M2.5,10h34 M39.5,10h37.4"/>
+	</g>
+</g>
+</svg>

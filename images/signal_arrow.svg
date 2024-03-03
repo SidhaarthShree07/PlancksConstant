@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="41.38px" height="41.38px" viewBox="0 0 41.38 41.38" enable-background="new 0 0 41.38 41.38" xml:space="preserve">
+<g>
+	<g>
+		
+			<radialGradient id="SVGID_1_" cx="199.9248" cy="214.4258" r="19.6991" gradientTransform="matrix(0.9996 0 0 0.9996 -179.5459 -193.5958)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#000000"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+		</radialGradient>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" d="M34.32,6.78c3.86,3.89,5.78,8.55,5.78,13.98
+			c0,5.43-1.93,10.09-5.78,13.98c-3.89,3.82-8.57,5.73-14.03,5.73c-5.43,0-10.06-1.91-13.88-5.73c-3.89-3.89-5.83-8.55-5.83-13.98
+			c0-5.43,1.95-10.09,5.83-13.98c3.82-3.86,8.45-5.78,13.88-5.78C25.76,0.99,30.43,2.92,34.32,6.78z M34.83,20.71
+			c0-4.02-1.39-7.46-4.17-10.31c-2.82-2.82-6.27-4.23-10.36-4.23c-3.99,0-7.39,1.41-10.21,4.23c-2.85,2.85-4.27,6.29-4.27,10.31
+			c0,4.06,1.42,7.48,4.27,10.26c2.82,2.85,6.22,4.28,10.21,4.28c4.09,0,7.54-1.42,10.36-4.28C33.43,28.19,34.83,24.77,34.83,20.71z"
+			/>
+	</g>
+	
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3" d="
+		M35.78,20.9c0,4.2-1.5,7.8-4.5,10.8c-2.97,2.97-6.55,4.45-10.75,4.45c-4.23,0-7.83-1.48-10.8-4.45c-2.97-3-4.45-6.6-4.45-10.8
+		c0-4.23,1.48-7.83,4.45-10.8c2.97-2.97,6.57-4.45,10.8-4.45c4.2,0,7.78,1.48,10.75,4.45C34.28,13.07,35.78,16.67,35.78,20.9z"/>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#66FF33" points="20.33,10.81 20.33,30.8 10.33,20.81 	"/>
+	<rect x="17.63" y="16.85" fill-rule="evenodd" clip-rule="evenodd" fill="#66FF33" width="12.5" height="7.5"/>
+</g>
+</svg>
